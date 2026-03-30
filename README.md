@@ -1,5 +1,20 @@
-# 💫 About Me:
-## 🔭 I’m currently working on<br>- 🚀 Building [Your Project Name]<br>- 💡 Exploring [Tech/Domain, e.g., AI, Web Dev, ML]<br>- 🛠️ Improving skills in [specific tools or languages]<br><br>## 👯 I’m looking to collaborate on<br>- 🤝 Open-source projects related to [your interest]<br>- 🌐 Innovative ideas in [AI / Web / App Development]<br>- 🧠 Hackathons & team-based coding challenges<br><br>## 🤝 I’m looking for help with<br>- ⚙️ Advanced concepts in [e.g., System Design / ML Models]<br>- 🧩 Debugging complex problems<br>- 📈 Scaling projects / performance optimization<br><br>## 🌱 I’m currently learning<br>- 📚 [Technology 1, e.g., React / FastAPI]<br>- 🤖 [Technology 2, e.g., Deep Learning / NLP]<br>- 🧠 [Any concept or framework you're mastering]<br><br>## 💬 Ask me about<br>- 💻 Programming (C++, Python, JavaScript)<br>- 🌐 Web Development & APIs<br>- 📊 Data Structures & Algorithms<br>- 🤖 AI/ML basics<br><br>## ⚡ Fun fact<br>- 😄 [Something cool about you]<br>- 🎯 I love solving problems & building impactful tech!
+## 🔭 I’m currently working on
+- Building cool projects
+
+## 👯 I’m looking to collaborate on
+- Open-source & hackathons
+
+## 🤝 I’m looking for help with
+- Advanced coding & real-world projects
+
+## 🌱 I’m currently learning
+- Web Development & AI/ML
+
+## 💬 Ask me about
+- Programming & tech
+
+## ⚡ Fun fact
+- I love turning ideas into reality 🚀
 
 
 ## 🌐 Socials:
