@@ -1,20 +1,11 @@
-## 🔭 I’m currently working on
-- Building cool projects
+## About Me
 
-## 👯 I’m looking to collaborate on
-- Open-source & hackathons
-
-## 🤝 I’m looking for help with
-- Advanced coding & real-world projects
-
-## 🌱 I’m currently learning
-- Web Development & AI/ML
-
-## 💬 Ask me about
-- Programming & tech
-
-## ⚡ Fun fact
-- I love turning ideas into reality 🚀
+🔭 I’m currently working on building cool and impactful projects.  
+👯 I’m looking to collaborate on open-source projects and hackathons.  
+🤝 I’m looking for help with advanced coding and real-world applications.  
+🌱 I’m currently learning Web Development and AI/ML.  
+💬 Ask me about programming and tech.  
+⚡ Fun fact: I love turning ideas into reality 🚀
 
 
 ## 🌐 Socials:
